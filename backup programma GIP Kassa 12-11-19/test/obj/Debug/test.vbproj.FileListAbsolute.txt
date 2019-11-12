@@ -1,0 +1,14 @@
+C:\Users\Daan\iCloudDrive\School\Programmeren\test\test\bin\Debug\test.exe.config
+C:\Users\Daan\iCloudDrive\School\Programmeren\test\test\bin\Debug\test.exe
+C:\Users\Daan\iCloudDrive\School\Programmeren\test\test\bin\Debug\test.pdb
+C:\Users\Daan\iCloudDrive\School\Programmeren\test\test\bin\Debug\test.xml
+C:\Users\Daan\iCloudDrive\School\Programmeren\test\test\obj\Debug\test.vbprojAssemblyReference.cache
+C:\Users\Daan\iCloudDrive\School\Programmeren\test\test\obj\Debug\test.Resources.resources
+C:\Users\Daan\iCloudDrive\School\Programmeren\test\test\obj\Debug\test.vbproj.GenerateResource.cache
+C:\Users\Daan\iCloudDrive\School\Programmeren\test\test\obj\Debug\test.vbproj.CoreCompileInputs.cache
+C:\Users\Daan\iCloudDrive\School\Programmeren\test\test\obj\Debug\test.exe
+C:\Users\Daan\iCloudDrive\School\Programmeren\test\test\obj\Debug\test.xml
+C:\Users\Daan\iCloudDrive\School\Programmeren\test\test\obj\Debug\test.pdb
+C:\Users\Daan\iCloudDrive\School\Programmeren\test\test\obj\Debug\test.frmHoofd.resources
+C:\Users\Daan\iCloudDrive\School\Programmeren\test\test\obj\Debug\test.frmBootscreen.resources
+C:\Users\Daan\iCloudDrive\School\Programmeren\test\test\obj\Debug\test.frmInfoProduct.resources
